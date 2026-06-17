@@ -46,3 +46,18 @@ The objective of this project is to reduce manual attendance work and improve ac
 ## 8. Conclusion
 
 This project demonstrates how RFID technology can be used to automate attendance management. It is simple, efficient, and can be expanded into a real-world attendance system.
+
+
+# Changelog
+
+## Version 1.0
+- Basic RFID attendance system
+- Student authentication
+
+## Version 1.1
+- Added timestamp recording
+- Added attendance storage
+
+## Version 1.2
+- Added CSV student database
+- Improved documentation
